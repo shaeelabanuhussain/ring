@@ -1,5 +1,7 @@
 # Ring
 
+**Try it live:** **[ring-movie.netlify.app](https://ring-movie.netlify.app/)** — scroll through in one sitting. You never quite know when the last frame lands; headphones and a dark room optional, courage required.
+
 **Repository:** [github.com/shaeelabanuhussain/ring](https://github.com/shaeelabanuhussain/ring)
 
 A single-page **sticky-scroll horror** experience built with **Vite**, **React 19**, **TypeScript**, and **Framer Motion**. Nine full-viewport scenes blend as you scroll; the finale uses a **randomized reveal window** each visit so the last beat does not land at a predictable scroll position. A full-viewport **“You survived”** epilogue follows the story block.
@@ -17,6 +19,8 @@ Inspired by the narrative flow of [horror_scroll](https://github.com/shaeelabanu
 - **Optional upscale script** — `sharp`-based resize to 4K for sources in `public/scenes-in/`.
 
 ## Quick start
+
+**Just want to experience it?** Open **[https://ring-movie.netlify.app/](https://ring-movie.netlify.app/)** and use your mouse wheel or trackpad—nothing to install.
 
 ```bash
 git clone https://github.com/shaeelabanuhussain/ring.git
