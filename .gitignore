@@ -1,0 +1,7 @@
+node_modules
+dist
+*.local
+.DS_Store
+
+# Keep scene art only under public/scenes/ (ignore stray PNGs in repo root)
+/*.png
